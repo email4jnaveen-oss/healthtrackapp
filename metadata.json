@@ -1,0 +1,6 @@
+{
+  "name": "VitalTrack",
+  "description": "All-in-one offline-first health and habit tracker for hydration, sleep, blood pressure, and intermittent fasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
